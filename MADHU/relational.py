@@ -1,0 +1,6 @@
+print(25>14)
+print(16<18)
+print(45>=45)
+print(22<=50)
+print(50==50)
+print(32!=44)

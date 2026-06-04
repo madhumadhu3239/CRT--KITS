@@ -1,0 +1,11 @@
+num=10
+print(f"num= {num}")
+num+=20
+print(f"num= {num}")
+num-=40
+print(f"num= {num}")
+num*=30
+print(f"num= {num}")
+num/=22
+print(f"num= {num}")
+num%=44
